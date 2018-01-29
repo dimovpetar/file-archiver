@@ -12,9 +12,9 @@ Supported OS - Windows
 
 **Example**
 
-* Archiver.exe -Pack C:\Test C:\Temp\output.arc
-* Archiver.exe -Unpack C:\Temp\output.arc C:\AnotherDirectory
-* Archiver.exe List C:\Temp\myfile.arc
+* Archiver.exe -Pack *C:\Test* *C:\Temp\output.arc*
+* Archiver.exe -Unpack *C:\Temp\output.arc* *C:\AnotherDirectory*
+* Archiver.exe List *C:\Temp\myfile.arc*
 
 
 
